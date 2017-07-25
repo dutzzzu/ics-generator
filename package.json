@@ -1,0 +1,57 @@
+{
+  "_from": "ics-generator",
+  "_id": "ics-generator@1.0.3",
+  "_inBundle": false,
+  "_integrity": "sha1-Y1GcVI+gsxqhDwu/7AUEosFI1u8=",
+  "_location": "/ics-generator",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "ics-generator",
+    "name": "ics-generator",
+    "escapedName": "ics-generator",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/ics-generator/-/ics-generator-1.0.3.tgz",
+  "_shasum": "63519c548fa0b31aa10f0bbfec0504a2c148d6ef",
+  "_spec": "ics-generator",
+  "_where": "/Users/vladbota/workspace/sportme-bot",
+  "author": {
+    "name": "Ashutosh Priyadarshy",
+    "email": "ashutosh@sunsama.com",
+    "url": "https://sunsama.com"
+  },
+  "bugs": {
+    "url": "https://github.com/sunsama/ics-generator/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "underscore": "^1.8.3"
+  },
+  "deprecated": false,
+  "description": "Generate RFC-Compliant ICS documents",
+  "homepage": "https://github.com/sunsama/ics-generator#readme",
+  "keywords": [
+    "calendar",
+    "ical",
+    "ics"
+  ],
+  "license": "Apache-2.0",
+  "main": "ics-generator.js",
+  "name": "ics-generator",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunsama/ics-generator.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.3"
+}
